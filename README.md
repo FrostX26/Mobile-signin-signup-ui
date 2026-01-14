@@ -8,11 +8,8 @@ https://www.figma.com/proto/rVmcki06BLXh2DpNP6wQep
   
 ## 📸 Screenshots
 
-### Sign In Screen
-![Sign In](Signin.jpg)
-
-### Sign Up Screen
-![Sign Up](Signup.jpg)
+<img src="Signin.jpg" width="300">
+<img src="Signup.jpg" width="300">
 
 ## 👤 Designed by
 Faheem Shaikh
